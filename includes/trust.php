@@ -2,9 +2,9 @@
 <div class=" container">
 	<div class="row">
 	    <div class="col-md-12">
-	        <h2 class="trust-title">
+	        <h6 class="trust-title">
 	            нам доверяют компании
-	        </h2>
+	        </h6>
 	    </div>
 		<div class="col-md-4">
 		    <div class="trust-item"><img src="img/trust1.png" alt="" class="trust-img"></div>

@@ -336,6 +336,7 @@ h5 {
     padding-right: 0;
     font-size: 25px; 
     font-family: "Oswald-DemiBold";
+    text-transform: uppercase;
   }
 
   .dd-box-green_pb p {
@@ -954,7 +955,15 @@ input[type="number"]::-webkit-inner-spin-button {
 
 .profbrus-title {
   margin-bottom: 50px; }
-
+h6 {
+    color: white;
+    font-family: "Oswald-DemiBold";
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
 .profbrus-text {
   color: white;
   font-family: "Open Sans", sans-serif;
