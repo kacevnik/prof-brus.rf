@@ -96,7 +96,7 @@
 		</div>
 		<div class="col-md-6 firs-right">
 		   <div class="first-right__header">
-		         <p class="first-title first-title-first">Узнай за <span class="first-span">3 минуты</span></p><br>
+		         <p class="first-title first-title-first">Рассчитай за <span class="first-span">3 минуты</span></p><br>
 		        <p class="first-title first-title-second">стоимость и объем</p><br>
 		        <p class="first-title first-title-third">профилированного бруса!</p>
 		    </div>
@@ -108,7 +108,7 @@
 		    </div>
 		</div>
 		<div class="col-md-12">
-		    <a href="#" class="btn btn-primary first-calc btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">онлайн калькулятор бруса</a>
+		    <a href="#" class="btn btn-primary first-calc btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Рассчитай стоимость бруса</a>
 		</div>
 	</div>
 </div>
