@@ -320,12 +320,24 @@ h5 {
   border-left: 4px solid #FFBA00;
   padding: 20px;
   padding-top: 33px; }
+
   .dd-box-green_pb h2 {
     color: #fff;
     text-align: left;
     padding-bottom: 25px;
     padding-right: 0;
-    font-size: 25px; }
+    font-size: 25px; 
+  }
+
+  .dd-box-green_pb h6 {
+    color: #fff;
+    text-align: left;
+    padding-bottom: 25px;
+    padding-right: 0;
+    font-size: 25px; 
+    font-family: "Oswald-DemiBold";
+  }
+
   .dd-box-green_pb p {
     color: #fff;
     font-family: 'Open Sans', sans-serif;
