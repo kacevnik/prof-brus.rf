@@ -161,7 +161,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 
@@ -197,7 +197,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 					</div>
@@ -241,7 +241,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 					</div>
@@ -289,7 +289,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 
@@ -361,7 +361,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 					</div>
@@ -396,7 +396,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 					</div>
@@ -451,7 +451,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 
@@ -496,7 +496,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 					</div>
@@ -540,7 +540,7 @@
 						<div class="dd-info-box">
 							<span class="dd-sp_1">Проект брус</span>
 							<span class="dd-sp_2">Стоимость "под ключ"</span>
-							<span class="dd-sp_3">от 1 000 000 руб</span>
+							<span class="dd-sp_3">по запросу</span>
 							<a href="#log-in3" name="modal">Получить смету</a>
 						</div>
 					</div>
