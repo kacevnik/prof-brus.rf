@@ -75,6 +75,8 @@
 					<li>+7 (383) 377-75-41</li>
 					<li>+7 (923) 785-48-51</li>
 					<li><a href="#">pb-nsk@yandex.ru</a></li>
+					<li>ОГРН 1175476027077</li>
+					<li>ИНН5433961469</li>
 				</ul>
 			</div>
 			<div class="col-md-12">
