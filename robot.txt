@@ -1,0 +1,8 @@
+User-agent: *
+
+User-agent: GoogleBot
+
+User-agent: Yandex
+
+Sitemap: http://xn-----6kcfc9aaffnd1aahdlodeiv0ardh5qob.xn--p1ai/sitemap.xml
+Host: http://xn-----6kcfc9aaffnd1aahdlodeiv0ardh5qob.xn--p1ai
