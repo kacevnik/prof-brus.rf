@@ -15,7 +15,7 @@
                             var map = new YMaps.Map(YMaps.jQuery("#YMapsID")[0]);
 
                             // Устанавливает начальные параметры отображения карты: центр карты и коэффициент масштабирования
-                            map.setCenter(new YMaps.GeoPoint(82.938620, 55.038351), 15);
+                            map.setCenter(new YMaps.GeoPoint(82.954045, 55.039213), 16);
 
                                 var w = 64;
                                 var h = w/2;
