@@ -9,7 +9,7 @@
 		</div>
 		<div class="col-md-6">
 		    <div class="buy-item clearfix">
-		        <div class="buy-item__left"></div>
+		        <div class="buy-item__left icon_project"></div>
 		        <div class="buy-item__right">
 		            <p class="buy-item__right__title">Бесплатный проект</p>
 		            <p class="buy-item__right__text">При заказе профилированного бруса проект в программе «К3 Коттедж» с расчетом объемов в подарок. Выполним расчет за 24 часа.</p>
@@ -18,7 +18,7 @@
 		</div>
 		<div class="col-md-6">
 		     <div class="buy-item clearfix">
-		        <div class="buy-item__left"></div>
+		        <div class="buy-item__left icon_dostavka"></div>
 		        <div class="buy-item__right">
 		            <p class="buy-item__right__title">Комплектация «под ключ»</p>
 		            <p class="buy-item__right__text">Сформируем полный комплект для строительства дома, включая все необходимые материалы. (Березовые шканты, межвенцовый утеплитель, кровля)</p>
@@ -27,7 +27,7 @@
 		</div>
 		<div class="col-md-6">
 		     <div class="buy-item clearfix">
-		        <div class="buy-item__left"></div>
+		        <div class="buy-item__left icon_key1"></div>
 		        <div class="buy-item__right">
 		            <p class="buy-item__right__title">Доставка до объекта</p>
 		            <p class="buy-item__right__text">Собственная техника доставит пиломатериал до Вашего объекта по минимальной стоимости в любое удобное время.</p>
@@ -36,7 +36,7 @@
 		</div>
 		<div class="col-md-6">
 		     <div class="buy-item clearfix">
-		        <div class="buy-item__left"></div>
+		        <div class="buy-item__left icon_key2"></div>
 		        <div class="buy-item__right">
 		            <p class="buy-item__right__title">Строительство под ключ</p>
 		            <p class="buy-item__right__text">Если Вы не определились с тем, кто будет выполнять сборку вашего строения. Мы можем предложить свои услуги, либо посоветовать подходящую бригаду.</p>

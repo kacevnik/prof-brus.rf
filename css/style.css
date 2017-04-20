@@ -1081,7 +1081,18 @@ h6 {
   float: left; }
 
 .buy-item__left {
-  background: url(/img/buy-item.png) 50% 50% no-repeat; }
+  background: url(/img/icon.png) no-repeat; }
+
+.icon_project{
+  background-position-x: -270px;
+  background-position-y: -270px;
+}
+.icon_dostavka{
+    background-position-y: -270px;
+}
+.icon_key2{
+    background-position-x: -270px;
+}
 
 .buy-item__right {
   background: #f7f3eb;
